@@ -19,6 +19,6 @@ Be the first to know about live events, new shows & all things Sound Opinions
 [subscribe](http://www.soundopinions.org/subscribe)
 
 ## Support Sound Opinions
-![Support](https://sound-images.s3.amazonaws.com/images/2013/Support.jpg)
+![Support](//static.soundopinions.org/images/2013/Support.jpg)
 We rely on your donations!
 [Support](http://soundopinions.org/support)

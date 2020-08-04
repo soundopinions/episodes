@@ -91,7 +91,7 @@ Email alex@soundopinions.org | Twitter @alexclaiborne1
 
 
 ### Ayana Contreras
-![Ayana Contreras](http://sound-images.s3.amazonaws.com/images/2017/acontreras.jpg)
+![Ayana Contreras](//static.soundopinions.org/images/2017/acontreras.jpg)
 
 Ayana Contreras is a *Sound Opinions* Producer. She is an avid collector of vintage vinyl records, and shares her knowledge as host of Reclaimed Soul on Vocalo (an all-vinyl music show that features original interviews and archival tape). Ayana periodically joins WBEZ's Morning Shift, as well.
 Previously, Ayana was Executive Producer of The Barber Shop Show hosted by Richard Steele, a public affairs show which was broadcast from a working barber shop on Chicago's West Side. Ayana was a 2014-15 Arts + Public Life Artist-in-Residence at The University of Chicago, and was a 2015 Association of Independents in Radio New Voices Scholar. Her first hosting gig was with WBEZ's Global Overnight program in 2007. Email ayana@soundopinions.org.

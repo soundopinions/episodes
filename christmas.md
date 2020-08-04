@@ -4,7 +4,7 @@
 
 ## Rudolph Pouts...and Pouts Again. The Hits Pt.1 – Special Edition 2018!
 
-![Andy Cirzan](https://sound-images.s3.amazonaws.com/christmas/cirzan%2018.jpg)
+![Andy Cirzan](//static.soundopinions.org/christmas/cirzan%2018.jpg)
 
 Like a little kid waiting for {tag: Santa}, Sound Opinions eagerly awaits the arrival of Andy Cirzan.
 
@@ -25,7 +25,7 @@ Full Album
 *PC Users: Right Click to Save / Mac Users: Control-Click*
 
 ### Cover Art
-[![Rudolph Pouts](https://sound-images.s3.amazonaws.com/christmas/FRONT%20COVER%20TEMPLATE_2018.png)](https://sound-images.s3.amazonaws.com/christmas/2018%20Christmas.zip)
+[![Rudolph Pouts](//static.soundopinions.org/christmas/FRONT%20COVER%20TEMPLATE_2018.png)](//static.soundopinions.org/christmas/2018%20Christmas.zip)
 
 *Click image to download front & back cover*
 
