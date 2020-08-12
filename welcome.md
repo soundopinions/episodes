@@ -1,4 +1,4 @@
-?graph W10=
+?pubdate 2005-12-03T00:00
 
 # Sound Opinions. Don't Miss a Beat.
 
