@@ -65,25 +65,25 @@ Geary Yonker: gyonker@wbez.org
 
 ### Jim DeRogatis
 
-![Jim Derogatis](http://static.soundopinions.org/images/2016/jderogatis.jpg)
+![Jim Derogatis](//static.soundopinions.org/images/2016/jderogatis.jpg)
 
 Born in Jersey City, New Jersey, the year the Beatles arrived in America, [Jim DeRogatis](http://jimdero.com/) began voicing his opinions about rock 'n' roll shortly thereafter. He is a full-time lecturer in the Professional Writing Program of the English Department at Columbia College Chicago, concentrating on Reviewing the Arts and Writing About Arts and Media, and he continues to write about popular music for {tag: WBEZ Chicago}. Together with Greg Kot of *The Chicago Tribune*, he co-hosts *Sound Opinions*. DeRogatis spent fifteen years as the rock critic at *The Chicago Sun-Times* and is the author of several [books](http://www.jimdero.com/BooksProjectsOpen.html) about music: *Let It Blurt: The Life and Times of Lester Bangs, America's Greatest Rock Critic*; *The Velvet Underground: An Illustrated History of a Walk on the Wild Side*; *Staring at Sound: The True Story of Oklahoma's Fabulous Flaming Lips*; *Turn On Your Mind: Four Decades of Great Psychedelic Rock*; and *Milk It! Collected Musings on the Alternative Music Explosion of the '90s*. In 2010, he and Kot issued their first book together, *The Beatles vs. the Rolling Stones: Sound Opinions on the Great Rock 'n' Roll Rivalry*, written in the fun but combative style of the radio show. DeRogatis has played in punk-rock bands since age thirteen but jokes that he is a drummer, not a musician. He lives on the North Side of Chicago with his wife Carmel (with whom he edited the 2004 anthology Kill Your Idols: A New Generation of Rock Writers Reconsiders the Classics), near their daughter Melody. Contact him at jimdero.com
 
 ### Greg Kot
-![Greg Kot](http://static.soundopinions.org/images/2016/gkot.jpg)
+![Greg Kot](//static.soundopinions.org/images/2016/gkot.jpg)
 
 Greg Kot has been the music critic at the Chicago Tribune since 1990 and is the cohost of the nationally syndicated *Sound Opinions*. He has written several books, including *I'll Take You There: Mavis Staples, the Staple Singers, and the Music the Music That Shaped the Civil Rights Era*; *Ripped: How the Wired Generation Revolutionized Music* and *Wilco: Learning How to Die*. He also coauthored *The Beatles vs. The Rolling Stones: Sound Opinions on the Great Rock 'n' Roll Rivalry* with his Sound Opinions colleague Jim DeRogatis. Kot's Tribune-hosted blog, [Turn it Up](http://www.chicagotribune.com/entertainment/music/kot/), debuted in 2007 and covers all aspects of music, and he writes a regular music column for the [BBC](http://www.bbc.com/culture/sections/music). A longtime basketball junkie, he coauthored two best-selling editions of the *Survival Guide for Coaching Youth Basketball*. Kot also has made major contributions to books on Johnny Cash, George Harrison, the Velvet Underground, Queen, Aerosmith, R.E.M. and the Beatles. He has written extensively for *Encyclopaedia Britannica*, *Rolling Stone*, and *Entertainment Weekly*, as well as *Details*, *Men's Journal*, *Guitar World*, *Vibe*, *Request* and other publications. Greg lives on Chicago's Northwest Side with his wife and two daughters. Contact him at gregkot.com.
 
 
 ### Brendan Banaszak
 
-![Brendan Banaszak](http://static.soundopinions.org/images/2016/bbanaszak1.jpg)
+![Brendan Banaszak](//static.soundopinions.org/images/2016/bbanaszak1.jpg)
 
 Brendan Banaszak is *Sound Opinions*' Executive Producer. Before joining *Sound Ops* Brendan spent almost 15 years as a producer and director for NPR, where he covered war zones, disaster areas, political conventions and pumpkin throwing competitions. He's not nearly as tired as that picture would suggest. Email brendan@soundopinions.org   
 
 
 ### Alex Claiborne
-![Alex Claiborne](http://static.soundopinions.org/images/2019/Alex_headshot.jpg)
+![Alex Claiborne](//static.soundopinions.org/images/2019/Alex_headshot.jpg)
 
 Alex Claiborne is a *Sound Opinions* Producer, responsible for booking guests, brainstorming ideas, editing feature stories and occasional on-air reporting (among other things.) Since she joined the team in 2014, she has edited interviews with artists like Alice Cooper, Courtney Barnett, John Prine, Vic Mensa and more. Prior to *Sound Ops*, she worked as a fill-in producer on WGN Radio for a variety of programs. Alex attended the University of Wisconsin-Madison, where she graduated with a degree in Journalism and Radio-Television-Film. Alex loves consuming all things pop culture, working out, listening to podcasts, reading, volunteering with dogs and writing lengthy bios. 
 

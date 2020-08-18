@@ -338,7 +338,7 @@ Join our own special duo, Jim and Greg, for this {genre: punk} {genre: rock} rom
 [Get tickets here](http://sndo.ps/sidandnancy)
 
 ## 11/10/2014 Sound Opinions at the Movies: *The Wall*
-![thewallsm](http://static.soundopinions.org/images/2014/thewallsm.jpg)
+![thewallsm](//static.soundopinions.org/images/2014/thewallsm.jpg)
 Some movies should never, ever be seen on a small screen (Or, heaven forbid, a cellphone!) And {artist: Pink Floyd}'s sensory assault **The Wall** is one of them. 
 
 Join {host: Jim} and {host: Greg} on **Monday November 10th** at **7:30 p.m.** as we do this unforgettable film justice on the big screen at **The Music Box Theatre.** 
@@ -346,7 +346,7 @@ Join {host: Jim} and {host: Greg} on **Monday November 10th** at **7:30 p.m.** a
 Celebrate 35 years of *The Wall* and [Get your tickets now!](https://www.eventbrite.com/e/sound-opinions-at-the-movies-pink-floyd-the-wall-tickets-13881681483)
 
 ## 11/5/2014 Beatles Vs. Stones
-![BVS](http://static.soundopinions.org/images/2014/bvs_ots_web.jpg)
+![BVS](//static.soundopinions.org/images/2014/bvs_ots_web.jpg)
 Join {host: Jim DeRogatis} and {host: Greg Kot} of Sound Opinions for a great debate: **The Beatles Vs. The Rolling Stones**. It has now been 50 years since they first hit the world stage, and the Beatles and the Stones continue to bring people together—and tear them apart. This is one debate you won't want to miss as.
 
  A special book signing will be held at the close of the program so audience members can secure the perfect holiday gift for their favorite Beatles or Stones fan!
@@ -355,7 +355,7 @@ Join {host: Jim DeRogatis} and {host: Greg Kot} of Sound Opinions for a great de
 
 
 ## 8/15/14 The Summer Music Film Festival 
-![musicfestival](http://static.soundopinions.org/images/2014/musicfestival2.jpg)
+![musicfestival](//static.soundopinions.org/images/2014/musicfestival2.jpg)
 For the 4th year Sound Opinions and the {place: Music Box Theatre} will co-present a festival featuring a unique selection of fantastic music films from **August 15th through August 19th**. 
 
 {host: Jim DeRogatis} and {host: Greg Kot} will kick it all off with an opening night 30th Anniversary presentation of **Stop Making Sense**. Get up on your feet and dance to {name: Jonathan Demme}'s footage of the {artist: Talking Heads}. 
@@ -365,12 +365,12 @@ Then come back for more great music movies featuring {artist: John C. Reilly}, {
 
 
 ## 8/20/14 Sound Opinions Summer BBQ 2014
-![bbqeventtile](http://static.soundopinions.org/images/2014/bbqeventtile3.jpg)
+![bbqeventtile](//static.soundopinions.org/images/2014/bbqeventtile3.jpg)
 What better way to celebrate Sound Opinions and the Summer season than with a BBQ on our beautiful terrace at {tag: WBEZ}'s [Studios](https://www.chicagopublicmedia.org/contact) on Navy Pier? Enjoy **Food** by {tag: Kuma's Corner}, {tag: Hoosier Mama Pie Company}, {tag: Parsons Chicken & Fish}, {tag: Leghorn Chicken}, {tag: Butcher & Larder}, & {tag: Black Dog Gelato} and **Drinks** by {tag: Goose Island}, {tag: Virtue Cider}, {tag: Candid Wines} & {tag: Intelligentsia}. Plus, get **Tours** of the station and watch the spectacular {place: Navy Pier} **Fireworks**. It all starts at 6 p.m. Tickets are $40, and all proceeds go to benefit Sound Opinions and {tag: Chicago Public Media}. 
 **[Click here to buy tickets](http://sndo.ps/sobbq2014)**
 
 ## 10/12/2014 Eat to the Beat
-![E2B](http://static.soundopinions.org/images/2014/events_e2b.jpg)
+![E2B](//static.soundopinions.org/images/2014/events_e2b.jpg)
 Join {host: Jim DeRogatis} and {host: Greg Kot} of Sound Opinions for a one-of-a-kind experience.
 Chefs **Paul Kahan** of [Nico Osteria](http://www.nicoosteria.com/), {place: Blackbird}, and the Publican, and **Matthias Merges** of {place: Yusho}, Billy Sunday and A10 present a spectacular multi-course dinner inspired by the groundbreaking 1967 album *{album: The Velvet Underground & Nico}* - with special guest Velvet Underground founder **{artist: John Cale}**. Your donation includes courses expertly paired with wine and a {artist: Velvet Underground} listening session and converstion. 
 
@@ -378,7 +378,7 @@ Chefs **Paul Kahan** of [Nico Osteria](http://www.nicoosteria.com/), {place: Bla
 [For tickets and more info click here](https://www.eventbrite.com/e/eat-to-the-beat-tickets-13180177265)
 
 ## 9/30/2014 20 (More) Albums
-![Vinyl](http://static.soundopinions.org/images/2014/vinyl.jpg)
+![Vinyl](//static.soundopinions.org/images/2014/vinyl.jpg)
 {host: Jim} and {host: Greg} present  "20 (More) Albums You Really Need to Hear" on **September 30th** at 7:30 p.m. at [**Space**](http://evanstonspace.com/) in {place: Evanston}, IL. 
 
 They'll go beyond the usual suspects from the canon and introduce you to classic, influential albums that deserve more attention. Audience participation is encouraged!
@@ -387,7 +387,7 @@ They'll go beyond the usual suspects from the canon and introduce you to classic
 
 
 ## 8/11/14 Sound Opinions Live with Broken Bells 
-![brokenbells](http://static.soundopinions.org/images/2014/brokenbells_events.jpg)
+![brokenbells](//static.soundopinions.org/images/2014/brokenbells_events.jpg)
 Hello Portland!
 Sound Opinions and OPB have teamed up to bring you a live recording of the show.
 Join Jim DeRogatis, Greg Kot & Broken Bells for a FREE interview and performance. 
@@ -398,7 +398,7 @@ Limit 2 tickets per person, & your guest must be with you at check-in.
 [Tickets and more info](https://www.eventbrite.com/e/sound-opinions-live-with-broken-bells-tickets-12432117799)
 
 ## 7/29/2014 Spinal Tap in Millennium Park
-![Spinal Tap](http://static.soundopinions.org/images/2014/spinaltap_events.jpg)
+![Spinal Tap](//static.soundopinions.org/images/2014/spinaltap_events.jpg)
 We turn our *Sound Opinions at the Movies* series up to 11 with a celebration of the 30th birthday of *This Is Spinal Tap* with a **FREE** public screening at the [Jay Pritzker Pavilion](http://www.cityofchicago.org/city/en/depts/dca/supp_info/millennium_park_-jaypritzkerpavilionfactsandfigures.html). 
 
 As {host: Greg} says, "*Spinal Tap* is our number-one music movie, so we were really waiting for a biggest and best opportunity to show it...Spinal Tap knows where the fine line between clever and stupid actually is, which is why it's both the funniest and best rock movie ever made." {host: Jim} adds, "{tag: *Spinal Tap*} is, quite simply, the best movie ever made about a rock band because, fictional or not, it absolutely is the truest.!" 
@@ -408,13 +408,13 @@ The event is part of **Millennium Park's Summer Film Series**, made possible by 
 Come see  **This is Spinal Tap**, hosted by Jim DeRogatis and Greg Kot, on Tuesday, July 29, at 6:30 p.m. in Chicago's **Millennium Park** at 201 E Randolph St. [Turn it up to 11!](http://www.cityofchicago.org/city/en/depts/dca/supp_info/millennium_park7.html)
 
 ## 7/17/2014 Sound Opinions Live with Jeff Tweedy
-![Tweedy_events](http://static.soundopinions.org/images/2014/tweedy_events.jpg)
+![Tweedy_events](//static.soundopinions.org/images/2014/tweedy_events.jpg)
 Join {host: Jim} and {host: Greg} for a live recording of Sound Opinions at {place: Lincoln Hall} in Chicago. Jim and Greg will interview {artist: Jeff Tweedy} of {artist: Wilco}, and he'll treat the audience to a performance with {name: Spencer Tweedy} on drums, {name: Jim Elkington} on guitar, {name: Darin Gray} on bass, and {name: Liam Cunningham} on keyboards. Doors open at 6 p.m., and the conversation starts at 6:30 pm. at [Lincoln Hall](http://www.lincolnhallchicago.com/). [Get more info](http://www.eventbrite.com/e/sound-opinions-live-with-tweedy-tickets-12124148655)
 
 **Please note this event is 21+ and is SOLD OUT. But we are auctioning off 5 pairs of backstage tickets for a good cause. Click [here](http://www.biddingowl.com/Auction/index.cfm?auctionID=1972&viewType=1&category=26&catName=Tickets%20and%20Travel) to bid.**
 
 ## 5/17/2014 Sound Opinions Live in Philly
-![Rosanne Cash](http://static.soundopinions.org/images/2014/rcash_events.jpg)
+![Rosanne Cash](//static.soundopinions.org/images/2014/rcash_events.jpg)
 Join Jim and Greg for a live taping of Sound Opinions with [{artist: Rosanne Cash}](http://rosannecash.com/) at the [WXPN Studios](https://www.google.com/maps/place/WXPN/@39.952084,-75.185034,17z/data=!4m6!1m3!3m2!1s0x89c6c64f5f6e18ed:0x48b6961b876e836!2sWXPN!3m1!1s0x89c6c64f5f6e18ed:0x48b6961b876e836).  They will talk with Rosanne about her longtime career and the Cash family legacy. Plus, she'll perform live.  
 
 Doors open at 3:15 pm then at 3:30 an interview with Rosanne Cash will be taped for a future Sound Opinions episode.  Tickets are SOLD OUT. 
@@ -422,13 +422,13 @@ Doors open at 3:15 pm then at 3:30 an interview with Rosanne Cash will be taped 
 Questions? Email [interact@soundopinions.org](mailto:interact@soundopinions.org)
 
 ## 5/3/2014 Greg Kot at the Rock & Roll Hall of Fame
-![Mavis](http://static.soundopinions.org/images/2014/Mavisbookcover.jpg)
+![Mavis](//static.soundopinions.org/images/2014/Mavisbookcover.jpg)
 Greg will be doing a free reading and signing of his new book *[I'll Take You There: Mavis Staples, the Staple Singers, and the March Up Freedom's Highway.](http://gregkot.com/books.html)* on **May 3rd** at 1 p.m. at the **Rock & Roll Hall of Fame** in Cleveland. 
 
 [Get more info](http://www.rockhall.com/event/Greg-Kot/)
 
 ## 4/23/2014 Sound Opinions at the Movies: *Almost Famous*
-![AlmostFamous](http://static.soundopinions.org/images/2014/Almost%20Famous.jpg)
+![AlmostFamous](//static.soundopinions.org/images/2014/Almost%20Famous.jpg)
 
 On **Wednesday April 23rd**, join {host: Jim} and {host: Greg} for a special screening of *Almost Famous* at the **{tag: Music Box Theatre}**.
 Jim and Greg will talk about {name: Cameron Crowe}'s love letter to musical discovery with a note-perfect soundtrack. Plus, Jim will share his memories of the late actor {name: Phillip Seymour Hoffman} and the late critic {name: Lester Bangs}. And you'll be able to enjoy {tag: Goose Island} beer while listening to audio of a young Jim DeRogatis speaking with his hero, Lester Bangs. 
@@ -436,7 +436,7 @@ Jim and Greg will talk about {name: Cameron Crowe}'s love letter to musical disc
 Doors open at 6:30 p.m. and the chat & screening will start at 7:30. Special thanks to {tag: Basecamp}. [Get advance tickets at a discount](http://sndo.ps/almostfamousmovie)
 
 ## 4/5/2014 Everything You Need to Know...
-![everything](http://static.soundopinions.org/images/2014/everything.jpg)
+![everything](//static.soundopinions.org/images/2014/everything.jpg)
 {host: Jim} and {host: Greg} present  "Everything You Need to Know About the Music Industry in 2014" on **April 5th** at 11 a.m. at the [**Old Town School of Folk Music**](http://www.oldtownschool.org/concerts/2014/04-05-2014-sound-opinions-featuring-jim-derogatis-and-greg-kot-presents-everything-you-need-to-know-about-the-music-industry-in-2014-11am/) in {place: Chicago}. 
 
 This half-day rock-n-roll boot camp will give attendees the top 10 things they need to know to take their bands from the basement to the stage. 
@@ -444,7 +444,7 @@ This half-day rock-n-roll boot camp will give attendees the top 10 things they n
 [Buy tickets](http://www.oldtownschool.org/events/event.php?event_id=6253)
 
 ## 3/1/2014 *I'll Take You There*
-![Mavis](http://static.soundopinions.org/images/2014/Mavisbookcover.jpg)
+![Mavis](//static.soundopinions.org/images/2014/Mavisbookcover.jpg)
 Join {host: Greg Kot} for a signing of his new book *[I'll Take You There: Mavis Staples, the Staple Singers, and the March Up Freedom's Highway.](http://gregkot.com/books.html)* on **March 1** from 2 - 5 p.m. at the landmark [Stax Museum of American Soul Music](http://www.staxmuseum.com/events/calendar/view/book-signing-for-i-ll-take-you-there-mavis-staples) in {place: Memphis}, TN. 
 
 **Plus check out these other events and [updates](http://gregkot.com/)**
@@ -456,7 +456,7 @@ Join {host: Greg Kot} for a signing of his new book *[I'll Take You There: Mavis
 - Feb. 7, 6:30 p.m. at  [{tag: City Lit Books}](http://www.citylitbooks.com/) in {place: Chicago} with broadcasting legend [Richard Steele](http://www.wbez.org/users/rsteele-0)
 
 ## 2/19/2014 20 Albums
-![Vinyl](http://static.soundopinions.org/images/2014/vinyl.jpg)
+![Vinyl](//static.soundopinions.org/images/2014/vinyl.jpg)
 {host: Jim} and {host: Greg} present  "20 Albums You Haven't Heard That You Need to Know About" on **February 19th** at 8 p.m. at the [**Old Town School of Folk Music**](https://www.oldtownschool.org/concerts/2014/02-19-2014-sound-opinions-8pm/) in {place: Chicago}. 
 
 They'll go beyond the usual suspects from the canon and introduce you to classic, influential albums that deserve more attention. Audience participation is encouraged!
@@ -464,7 +464,7 @@ They'll go beyond the usual suspects from the canon and introduce you to classic
 [Buy tickets]((https://www.oldtownschool.org/events/event.php?event_id=6212)
 
 ## 1/22/2014 Sound Opinions at the Movies: *Diner*
-![Diner](http://static.soundopinions.org/images/2014/SO_Diner_half.jpg)
+![Diner](//static.soundopinions.org/images/2014/SO_Diner_half.jpg)
 Join {host: Jim} and {host: Greg} for a special screening of {name: Barry Levinson}'s {tag: *Diner*} on **Wednesday January 22nd** at the {place: **Music Box Theatre**} in {place: Chicago}. 
 
 They'll talk about the great {era: '60s} soundtrack and invite WBEZ's ["Chewing the Fat"](http://www.wbez.org/content/chewing-fat-podcast-louisa-chu-and-monica-eng), to share Chicago's best diners. 
@@ -472,7 +472,7 @@ They'll talk about the great {era: '60s} soundtrack and invite WBEZ's ["Chewing 
 [Get your tickets now](http://www.eventbrite.com/e/sound-opinions-at-the-movies-diner-tickets-9899938984).
 
 ## 11/22/2013 WHYY Member Meetup
-![Philly](http://static.soundopinions.org/images/2013/phillytile.jpg)
+![Philly](//static.soundopinions.org/images/2013/phillytile.jpg)
 On Friday November 22nd from 5 - 7 pm, join your fellow music fans and [WHYY](http://www.whyy.org/) listeners at [National Mechanics](http://nationalmechanics.com/) in Philadelphia for a Desert Island Jukebox happy hour. It's FREE!
 
 Goose Island Beer will provide the drinks, and Sound Opinions will provide the soundtrack. But we need your help! What song says "Philly" to you? It can be from your fair city or about it. We want to add it to the Philadelphia Desert Island Jukebox. First register here for this free event. Then share your pick at <interact@soundopinions.org>. WHYY will play your tracks on the 22nd, and Jim and Greg will pick the best to win prizes.
@@ -480,7 +480,7 @@ Goose Island Beer will provide the drinks, and Sound Opinions will provide the s
 [Check it out!](http://www.eventbrite.com/e/whyy-member-meetup-tickets-9230638087)
 
 ## 10/24/2013  Sound Opinions at the Movies: *High Fidelity*
-![High Fidelity Poster](http://static.soundopinions.org/images/2013/hifi_tile.jpg) 
+![High Fidelity Poster](//static.soundopinions.org/images/2013/hifi_tile.jpg) 
 On Thursday **October 24th**, join {host: Jim DeRogatis} and {host: Greg Kot} for a special screening of *{tag: High Fidelity}* at the {place: **Music Box Theatre**}. Jim and Greg will talk about the Chicago-set film and the local music scene that inspired it.
 
 Beginning at 6:30 p.m. in the {place: Music Box} lobby, listeners are invited to have their own record store experience with a listening station provided by {tag: Grain Audio} and album selections hand-picked by {place: Laurie's Planet of Sound}, {place: Dave's Records} and {place: Dusty Groove}. The movie starts at 7:30.
