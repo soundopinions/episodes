@@ -18,38 +18,33 @@ Voice your opinion on the air!
 Call: **888.859.1800**
 
 #### Mailing Address
-<address>
 Sound Opinions  
-WBEZ  
-848 E. Grand Ave.  
-Chicago, IL 60611-3509
-</address>
 
-Email: <interact@soundopinions.org>  
-E-newsletter: [Sign up below](#elq)
+Email: [interact@soundopinions.org](mailto:interact@soundopinions.org)
+
+
+### Contact the Staff
+
+#### Brendan Banaszak, Executive Producer     
+brendan@soundopinions.org     
+[312.893.2911](tel:312.893.2911)
+
+#### Alex Claiborne, Producer     
+alex@soundopinions.org     
+[312.893.2915](tel:312.893.2915)
+
+#### Ayana Contreras, Producer     
+ayana@soundopinions.org     
+[312.893.2934](tel:312.893.2934)
+
+#### Andrew Gill, Producer
+andrew@soundopinions.org
+[312.948.4610](tel:312.948.4610])
 
 
 ### Rock Doctors
 Unless you are a full-time rock critic, it can be difficult to maintain good musical health. That's where the {tag: Rock Doctors} come in. Do you have a musical allergy or addiction? Or do you have a friend or relative who needs an intervention?
-The Sound Opinions clinic has its doors open. Drs. Jim DeRogatis and Greg Kot see patients a few times a year. To request an appointment, fill out this [form](http://soundopinions.org/do/rock-doctors/).
-
-### Contact the Staff
-Brendan Banaszak, Executive Producer     
-brendan@soundopinions.org     
-312.893.2911
-
-Alex Claiborne, Producer     
-alex@soundopinions.org     
-312.893.2915
-
-Ayana Contreras, Producer     
-ayana@soundopinions.org     
-312.893.2934
-
-Andrew Gill, Producer
-andrew@soundopinions.org
-312.948.4610
-
+The Sound Opinions clinic has its doors open. Drs. Jim DeRogatis and Greg Kot see patients a few times a year. To request an appointment, fill out this [form](/rock-doctors/).
 
 
 ### PRX Distribution
