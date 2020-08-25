@@ -2,7 +2,7 @@
 
 # Rock Doctors
 ![Doctors](https://static.soundopinions.org/images/2014/surgery-tools.jpg)
-Ask Jim and Greg for help in musical emergencies. [Form](https://soundopinions.org/do/rock-doctors/)
+[Ask Jim and Greg for help in musical emergencies.](/rock-doctors/)
 ## Music You Can't Live Without 
 ![Desert Island Jukebox graphic](https://static.soundopinions.org/images/2013/jukebox.jpg)
 Visit the ultimate Desert Island Jukebox. 
