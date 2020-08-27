@@ -7,7 +7,7 @@
 
 Sound Opinions is headed eastbound for a LIVE taping in Philadelphia. Jim and Greg will be joined by the extremely talented singer/songwriter Joan Shelley! 
 
-It's all happening November 12th at the Goose Island Philly Brewhouse. This event is free but you need a [ticket](https://www.eventbrite.com/e/sound-opinions-live-with-joan-shelley-tickets-77924802181). 
+It's all happening November 12th at the Goose Island Philly Brewhouse. |This event is free but you need a [ticket](https://www.eventbrite.com/e/sound-opinions-live-with-joan-shelley-tickets-77924802181).|
 
 The recording will run from approximately 1:00 - 2:00 p.m. 
 
@@ -16,7 +16,9 @@ Have a beer and spend your lunch break with Sound Opinions and Joan Shelley!
 
 ## 6/13/2019 *Soulless: The Case Against R. Kelly* by Jim DeRogatis
 ![Soulless](https://static.soundopinions.org/images/2019/Soulless.jpg)
-Sound Opinions co-host {host: Jim DeRogatis} is marking the publication of a book 19 years in the making, *Soulless: The Case Against R. Kelly*, arriving in stores the week of June 3. He will be reading at **Word bookstore in Jersey City** (123 Newark Ave.) at 7:30 p.m. on Monday, June 3, and at **WNYC's Greene Space** (44 Charlton St., N.Y.C.) on Tuesday, June 4, where he'll lead a panel discussion for a special podcast taping with {tag: #MeToo} founder {name: Tarana Burke} and writer and activist {name: Jamilah Lemeiux}. At 7 p.m. on Saturday, June 8, Jim will read and be part of a panel discussion with former *Sun-Times* colleagues {name: Mary Mitchell} and {name: Abdon Pallasch} moderated by writer and activist {name: Mikki Kendall} at **the Hideout in Chicago**, 1354 W. Wabansia, with music to follow from {artist: Some Velvet Evening} and {artist: Vortis}. Tickets are required -- the event benefits {tag: Our Music My Body} -- and books will be on sale from {tag: Women and Children First}. He will also join the founders of {tag: #MuteRKelly} in discussion at the Harris Theatre on June 13 as part of the **Chicago Humanities Fest**. More info for all of these events follows via the links below.
+Sound Opinions co-host {host: Jim DeRogatis} is marking the publication of a book 19 years in the making, *Soulless: The Case Against R. Kelly*, arriving in stores the week of June 3.
+
+He will be reading at **Word bookstore in Jersey City** (123 Newark Ave.) at 7:30 p.m. on Monday, June 3, and at **WNYC's Greene Space** (44 Charlton St., N.Y.C.) on Tuesday, June 4, where he'll lead a panel discussion for a special podcast taping with {tag: #MeToo} founder {name: Tarana Burke} and writer and activist {name: Jamilah Lemeiux}. At 7 p.m. on Saturday, June 8, Jim will read and be part of a panel discussion with former *Sun-Times* colleagues {name: Mary Mitchell} and {name: Abdon Pallasch} moderated by writer and activist {name: Mikki Kendall} at **the Hideout in Chicago**, 1354 W. Wabansia, with music to follow from {artist: Some Velvet Evening} and {artist: Vortis}. Tickets are required -- the event benefits {tag: Our Music My Body} -- and books will be on sale from {tag: Women and Children First}. He will also join the founders of {tag: #MuteRKelly} in discussion at the Harris Theatre on June 13 as part of the **Chicago Humanities Fest**. More info for all of these events follows via the links below.
 
 [Word reading, 7:30 p.m. **June 3**, 123 Newark Ave. Jersey City](https://www.wordbookstores.com/book/9781419740077)
 
