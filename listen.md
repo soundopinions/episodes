@@ -1,5 +1,6 @@
+?slug ?graph 
+?graph 
 ?pubdate 2005-12-03T00:00
-
 # Listen to Sound Opinions
 
 ## Online Audio
@@ -36,10 +37,10 @@
 - KECC - La Junta
 - KPGS - Pagosa Springs
 - KCCS - Starkville
-#### CONNECTICUT
+#### Connecticut
 - WNPR - Hartford
 - WEDW - Stamford
-- WPKT - Noriwch
+- WPKT - Norwich
 - WECS - Willimantic
 #### Delaware
 - WDDE - Dover
@@ -79,9 +80,7 @@
 - WDET - Detroit
 - WICA - Interlochen
 #### Minnesota
-- KCMP - St Paul
-- KSRQ - Theif River Falls
-- KMSE - Rochester
+- KSRQ - Thief River Falls
 #### Montana
 - KEMC - Billings
 - KBMC - Bozeman
@@ -111,8 +110,8 @@
 - WITH - Ithaca
 - WRLI - Southampton
 #### Oklahoma
-- KOSU - Stillwater
 - KOSN - Ketchum
+- KOSU - Stillwater
 - KOSR - Stillwater
 #### Oregon
 - KOPB - Portland
@@ -127,7 +126,7 @@
 - KOGL - Lincoln City
 - KRBM - Richland
 - KOTD - The Dalles
-- KTMK - Tallamook
+- KTMK - Tillamook
 - KSBA - Coos Bay
 - KSKF - Klamath Falls
 #### Pennsylvania
