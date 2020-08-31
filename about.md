@@ -1,4 +1,4 @@
-?slug 
+?id about
 ?graph 
 ?pubdate 2005-12-03T00:00
 # About Sound Opinions
