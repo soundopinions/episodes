@@ -1,6 +1,6 @@
 ?id listen
-?graph 
-?pubdate 2005-12-03T00:00
+?graph ?pubdate 2005-12-03T00:00
+?pubdate 
 # Listen to Sound Opinions
 
 ## Online Audio
@@ -9,9 +9,11 @@
 
 [iTunes](https://itunes.apple.com/us/podcast/sound-opinions/id94793843)
 
+[Spotify](https://open.spotify.com/show/1kNR8YL7TBrQuRxDdS4wtU)
+
 [tunein](https://beta.tunein.com/radio/Sound-Opinions-p60273/)
 
-[Feedburner](http://feeds.feedburner.com/TheSoundOpinionsPodcast)
+[RSS](http://feeds.feedburner.com/TheSoundOpinionsPodcast)
 
 [Stitcher](http://www.stitcher.com/podcast/sound-opinions)
 
