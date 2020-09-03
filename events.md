@@ -1,5 +1,5 @@
 ?id events
-?graph
+?graph [""]
 ?pubdate 2005-12-03T00:00
 
 # Events

@@ -1,6 +1,7 @@
 ?id rockdocs
-?graph
+?graph [""]
 ?pubdate 2005-12-03T00:00
+
 # Rock Doctors
 
 Unless you are a full-time rock critic, it can be difficult to maintain good musical health. That's where the {tag: Rock Doctors} come in. Do you have a musical allergy or addiction? Or do you have a friend or relative who needs an intervention?

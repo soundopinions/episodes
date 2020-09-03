@@ -1,11 +1,12 @@
 ?id listen
-?graph ?pubdate 2005-12-03T00:00
-?pubdate 
+?graph [""]
+?pubdate 2005-12-03T00:00
+ 
 # Listen to Sound Opinions
 
-## Online Audio
+## Subscribe to the Podcast
 
-#### Podcasts
+#### Podcast platforms
 
 [iTunes](https://itunes.apple.com/us/podcast/sound-opinions/id94793843)
 
@@ -13,10 +14,9 @@
 
 [tunein](https://beta.tunein.com/radio/Sound-Opinions-p60273/)
 
-[RSS](http://feeds.feedburner.com/TheSoundOpinionsPodcast)
-
 [Stitcher](http://www.stitcher.com/podcast/sound-opinions)
 
+[RSS](http://feeds.feedburner.com/TheSoundOpinionsPodcast)
 
 
 ## On the Radio
@@ -92,6 +92,22 @@
 - KYPH - East Helena
 - KYPM - Livingston
 - MYPW - Wolf Point
+#### Nebraska
+- KIOS - Omaha
+#### Nevada
+- KNPR - Las Vegas
+- KLNR - Panaca
+- KTPH - Tonopah
+#### New Mexico
+- KANW - Albuquerque
+- KIDS - Grants
+- KANR - Santa Rosa
+- KGGA - Gallup
+#### New York
+- WFUV - New York City
+- WRUR - Rochester
+- WITH - Ithaca
+- WRLI - Southampton
 #### North Carolina
 - WUNC - Chapel Hill
 - WFAE - Charlotte
@@ -100,21 +116,8 @@
 - WFHE - Hickory
 #### North Dakota
 - KFJM - Grand Forks
-#### Nebraska
-- KIOS - Omaha
-#### Nevada
-- KNPR - Las Vegas
-- KLNR - Panaca
-- KTPH - Tonopah
-#### New York
-- WFUV - New York City
-- WRUR - Rochester
-- WITH - Ithaca
-- WRLI - Southampton
 #### Oklahoma
 - KOSN - Ketchum
-- KOSU - Stillwater
-- KOSR - Stillwater
 #### Oregon
 - KOPB - Portland
 - KSMF - Ashland
@@ -153,11 +156,3 @@
 #### Wyoming
 - KPRQ - Sheridan
 - KYPB - Big Timber
-
-
-
-
-
-
-
-
