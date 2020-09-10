@@ -16,7 +16,7 @@
 
 [Stitcher](http://www.stitcher.com/podcast/sound-opinions)
 
-[RSS](http://feeds.feedburner.com/TheSoundOpinionsPodcast)
+[RSS](https://feeds.simplecast.com/Nn6fjnB0)
 
 
 ## On the Radio
