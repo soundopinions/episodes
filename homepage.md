@@ -10,17 +10,46 @@ Please consider becoming a Sound Opinions member by giving whatever you can [via
 
 // insert ads/paypal-donate.html
 
-## Subscribe to the podcast
-![podcast](https://static.soundopinions.org/images/podcastlanding.jpg)
-Download free episodes of Sound Opinions
-[Go](/listen)
 
-## Subscribe to Our Newsletter
-![Newsletter](https://static.soundopinions.org/images/2014/letter.jpg)
-Be the first to know about live events, new shows & all things Sound Opinions
-[subscribe](http://www.soundopinions.org/subscribe)
+## Attn: Do you work for a company looking to reach a generous, curious, and culturally engaged audience nationwide?
 
-## Support Sound Opinions
-![Support](https://static.soundopinions.org/images/2013/Support.jpg)
-We rely on your donations!
-[Support](http://soundopinions.org/support)
+Consider advertising with Sound Opinions! Contact [underwriting@soundopinions.org](mailto:underwriting@soundopinions.org) for details.
+
+## Merch: *Sound Opinions* Pint Glass
+
+![pint glass](https://static.soundopinions.org/images/2020/glass-1.jpeg)
+
+A pint glass, great for liquids (2019 design).
+
+[Add to Paypal Cart](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RZTF97LEVRB2A)
+
+
+
+
+## Merch: Sound Opinions Pint Glass
+
+![glassware](https://static.soundopinions.org/images/2020/merch-glass-2.jpg)
+
+A pint glass, great for liquids (2018 design).
+
+[Add to Paypal Cart](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3QNY38JL9N498)
+
+
+
+## Merch: *Sound Opinions* Record Tote
+
+![tote](https://static.soundopinions.org/images/2020/tote-front.jpeg)
+
+Reverse says "Everyone's A Critic."
+
+[Add to Paypal Cart](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZGFMWMHSSE59A)
+
+## Merch: Limited Edition **Jay Ryan** Print
+
+![jay ryan poster](https://static.soundopinions.org/images/2020/jay-ryan-poster.jpeg)
+
+
+
+[Add to Paypal Cart](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=KC7UE6PXWAEBE)
+
+
