@@ -8,7 +8,9 @@
 
 #### Podcast platforms
 
-[iTunes](https://itunes.apple.com/us/podcast/sound-opinions/id94793843)
+[Apple Podcasts](https://itunes.apple.com/us/podcast/sound-opinions/id94793843)
+
+[Overcast](https://overcast.fm/itunes94793843/sound-opinions)
 
 [Spotify](https://open.spotify.com/show/1kNR8YL7TBrQuRxDdS4wtU)
 
