@@ -40,14 +40,6 @@ A pint glass, great for liquids (2019 design).
 [Add to Paypal Cart](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RZTF97LEVRB2A)
 
 
-
-
-## Merch: Sound Opinions Pint Glass
-
-![glassware](https://static.soundopinions.org/images/2020/merch-glass-2.jpg)
-
-A pint glass, great for liquids (2018 design).
-
 [Add to Paypal Cart](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3QNY38JL9N498)
 
 
