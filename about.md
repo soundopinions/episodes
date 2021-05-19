@@ -69,12 +69,16 @@ Email [greg@gregkot.com](greg@gregkot.com) | Twitter [@GregKot](https://twitter.
 ### Alex Claiborne
 ![Alex Claiborne](https://static.soundopinions.org/images/2019/Alex_headshot.jpg)
 
-Alex Claiborne is a *Sound Opinions* Producer, responsible for booking guests, brainstorming ideas, editing feature stories and occasional on-air reporting (among other things.) Since she joined the team in 2014, she has edited interviews with artists like Alice Cooper, Courtney Barnett, John Prine, Vic Mensa and more. Prior to *Sound Ops*, she worked as a fill-in producer on WGN Radio for a variety of programs. Alex attended the University of Wisconsin-Madison, where she graduated with a degree in Journalism and Radio-Television-Film. Alex loves consuming all things pop culture, working out, listening to podcasts, reading, volunteering with dogs and writing lengthy bios. 
+Alex Claiborne is a Sound Opinions Producer. She is responsible for editorial work (brainstorming ideas, booking guests, editing and distributing the show) in addition to collaborating on live events, business and fundraising efforts. Since joining the team in 2014, Alex has produced interviews with Alice Cooper, comedian Hannibal Buress, Nancy Wilson (Heart), Courtney Barnett, John Prine and Todd Rundgren (to name a few.) She’s also lead produced discussions on the music of Taylor Swift and Carole King, the Chicago Soul scene, sexuality in music, and is the master of list shows. 
+
+Prior to *Sound Ops*, Alex worked at WGN Radio and Wisconsin Public Radio. Alex attended the University of Wisconsin-Madison, where she graduated with a degree in Journalism and Radio-Television-Film. Alex loves listening to music and podcasts, doing spin classes, reading and popular culture.
+
+Alex lives in Chicago with her fiancé and her acoustic guitar.
 
 Email [alex@soundopinions.org](mailto:alex@soundopinions.org) | Twitter [@alexclaiborne1](https://twitter.com/alexclaiborne1)
 
 ### Andrew Gill
-![Andrew Gill](https://s3.amazonaws.com/sound-images/images/2018/agill_sm.jpg)
+![Andrew Gill](https://static.soundopinions.org/images/2021/4b63c6.jpg)
 
 Andrew Gill is a *Sound Opinions* Producer who joined the show full-time in 2018. His favorite segments to produce are Classic Album Dissections and anything news-related. Before that he worked as a digital producer for WBEZ, focusing on photojournalism, video production, podcasting, blogging and social media over 12 years. During that time he produced videos of more than 100 Sound Opinions sessions. His work on various projects has garnered AP awards, an Edward R Murrow Award, a National Association of Black Journalists Salute to Excellence Award and multiple awards from the North American Guild of Beer Writers.
 Andrew grew up in Florida and lives in Chicago with his wife, son and cat.
