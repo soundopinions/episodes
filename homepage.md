@@ -11,6 +11,12 @@ Please consider becoming a Sound Opinions member by giving whatever you can [via
 
 // insert ads/paypal-donate.html
 
+## Attn: Win Bluetooth Headphones from Shure!
+
+![Shure AONIC 50](https://static.soundopinions.org/images/2021/sub-category-banner-3-aonic50-lifestyle.jpeg)
+
+[Enter to win a pair of AONIC 50 Bluetooth Headphones from Shure!](https://p.shure.com/SoundOpinionsAonic50)
+
 ## Merch: Limited Edition **Jay Ryan** Print
 
 ![jay ryan poster](https://static.soundopinions.org/images/2020/jay-ryan-poster.jpeg)
