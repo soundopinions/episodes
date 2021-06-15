@@ -3,11 +3,11 @@
 ?pubdate 2005-12-03T00:00
 # [Leave a voice memo](https://www.micdropp.com/studio/5febf006eba45/)
 Dear Listeners,
-For more than 15 years, Sound Opinions was a production of WBEZ, Chicago's public radio station. |Now that the show is independent, we're inviting you to join the band and lend a hand!| We need your support more than ever because now we have to do all the behind-the-scenes work that WBEZ handled before (like buying insurance and paying for podcast hosting, ugh). Plus, we have some exciting ideas we'd like to try now that there's no one to tell us no!
+Now that the show is independent, we're inviting you to join the band and lend a hand! We need your support more than ever because now we have to do all the behind-the-scenes work ourselves (like buying insurance and paying for podcast hosting). 
 
-Please consider becoming a Sound Opinions member by giving whatever you can [via Patreon](https://www.patreon.com/soundopinions?fan_landing=true) or with a one-time donation through PayPal. Thanks for listening, and thanks for your support!
+Please consider [becoming a Sound Opinions member by giving whatever you can via Patreon](https://www.patreon.com/soundopinions?fan_landing=true) or with a one-time donation through PayPal. Thanks for listening, and thanks for your support!
 
-
+![Support Sound Opinions on Patreon](https://static.soundopinions.org/images/2021/patreon.png)
 
 // insert ads/paypal-donate.html
 
