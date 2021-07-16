@@ -9,11 +9,11 @@ Please consider [becoming a Sound Opinions member by giving whatever you can via
 
 // insert ads/paypal-donate.html
 
-## Attn: Win Bluetooth Headphones from Shure!
+## Attn: Take Our Listeners Survey
 
-![Shure AONIC 50](https://static.soundopinions.org/images/2021/sub-category-banner-3-aonic50-lifestyle.jpeg)
+![Survey](https://static.soundopinions.org/images/2021/survey.jpeg)
 
-[Enter to win a pair of AONIC 50 Bluetooth Headphones from Shure!](https://p.shure.com/SoundOpinionsAonic50)
+[Tell us what you really think and help improve the show!](https://www.surveymonkey.com/r/X55NGHM)
 
 ## Merch: Limited Edition **Jay Ryan** Print
 
