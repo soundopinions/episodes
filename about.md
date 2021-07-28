@@ -69,11 +69,11 @@ Email [greg@gregkot.com](greg@gregkot.com) | Twitter [@GregKot](https://twitter.
 ### Alex Claiborne
 ![Alex Claiborne](https://static.soundopinions.org/images/2019/Alex_headshot.jpg)
 
-Alex Claiborne is a Sound Opinions Producer. She is responsible for editorial work (brainstorming ideas, booking guests, editing and distributing the show) in addition to collaborating on live events, business and fundraising efforts. Since joining the team in 2014, Alex has produced interviews with Alice Cooper, comedian Hannibal Buress, Nancy Wilson (Heart), Courtney Barnett, John Prine and Todd Rundgren (to name a few.) She’s also lead produced discussions on the music of Taylor Swift and Carole King, the Chicago Soul scene, sexuality in music, and is the master of list shows. 
+Alex Claiborne is a Sound Opinions Producer. She is responsible for editorial work (brainstorming ideas, booking guests, editing and distributing the show) in addition to collaborating on live events, ad sales, business and fundraising efforts. Since joining the team in 2014, Alex has produced interviews with Alice Cooper, comedian Hannibal Buress, Nancy Wilson (Heart), Courtney Barnett, John Prine and Todd Rundgren (to name a few.) She’s also lead produced discussions on the music of Taylor Swift and Carole King, the Chicago Soul scene, sexuality in music, and is the master of list shows. 
 
 Prior to *Sound Ops*, Alex worked at WGN Radio and Wisconsin Public Radio. Alex attended the University of Wisconsin-Madison, where she graduated with a degree in Journalism and Radio-Television-Film. Alex loves listening to music and podcasts, doing spin classes, reading and popular culture.
 
-Alex lives in Chicago with her fiancé and her acoustic guitar.
+Alex lives in Chicago with her fiancé.
 
 Email [alex@soundopinions.org](mailto:alex@soundopinions.org) | Twitter [@alexclaiborne1](https://twitter.com/alexclaiborne1)
 
