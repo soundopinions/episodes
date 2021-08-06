@@ -14,7 +14,7 @@
 
 [Spotify](https://open.spotify.com/show/1kNR8YL7TBrQuRxDdS4wtU)
 
-[tunein](https://beta.tunein.com/radio/Sound-Opinions-p60273/)
+[tunein](https://tunein.com/podcasts/Music-Podcasts/Sound-Opinions-p60273/)
 
 [Stitcher](http://www.stitcher.com/podcast/sound-opinions)
 
