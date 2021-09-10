@@ -42,10 +42,10 @@ The Sound Opinions clinic has its doors open. Drs. Jim DeRogatis and Greg Kot se
 
 ### PRX Distribution
 
-#### Steve Martin: [steve@sfmconsulting.com](steve@sfmconsulting.com)
+#### Mark Kausch: [mark.kausch@gmail.com](mark.kausch@gmail.com)
 
-#### John Barth: [john@prx.org](John@prx.org)       
-[Frequently Asked Questions](http://www.prx.org/soundopinions/faq)
+ 
+[Sound Opinions on PRX](https://exchange.prx.org/group_accounts/101127-so)
 
 
 

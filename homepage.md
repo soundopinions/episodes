@@ -33,7 +33,7 @@ Reverse says "Everyone's A Critic."
 
 ## Attn: Do you work for a company looking to reach a generous, curious, and culturally engaged audience nationwide?
 
-Consider advertising with Sound Opinions! Contact [underwriting@soundopinions.org](mailto:underwriting@soundopinions.org) for details.
+Consider advertising with Sound Opinions! Contact [sponsor@soundopinions.org](mailto:sponsor@soundopinions.org) for details.
 
 ## Merch: *Sound Opinions* Pint Glass
 
@@ -47,7 +47,7 @@ A pint glass, great for liquids (2019 design).
 [Add to Paypal Cart](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3QNY38JL9N498)
 
 
-
+//![Sound Opinions Logo](https://static.soundopinions.org/images/2021/soundopinions_podcast_logo.jpeg)
 
 
 
