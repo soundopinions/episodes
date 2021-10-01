@@ -1,8 +1,18 @@
 ?id events
 ?graph [""]
 ?pubdate 2005-12-03T00:00
-
 # Events
+
+## 10/10/2021 [Sound Opinions Live: *Lucy Dacus*](https://www.eventbrite.com/e/lucy-dacus-interview-and-performance-tickets-178889321777)
+![Lucy Dacus Photo by Ebru Yildiz](https://static.soundopinions.org/images/2021/ebru-scaled.jpeg)
+
+Join Sound Opinions hosts Jim DeRogatis and Greg Kot for a live taping of Sound Opinions with Lucy Dacus.
+
+Her album "Home Video" is one of their favorites of 2021. They'll talk with Lucy first, then she'll play a short set with her band. [Listen to Jim and Greg's review of "Home Video" on Sound Opinions](https://soundopinions.org/show/816#home-video-lucy-dacus).
+
+[Tickets are free, but must be reserved in advance.](https://www.eventbrite.com/e/lucy-dacus-interview-and-performance-tickets-178889321777) 
+
+Proof of COVID-19 vaccination and a matching photo ID is required for entry. Masks must be worn at all times while inside.
 
 ## 11/12/2019 Sound Opinions Live in Philadelphia: *Joan Shelley*
 ![Joan Shelley](https://static.soundopinions.org/images/2019/joan%20shelley.jpg)
@@ -152,7 +162,7 @@ Both Rolling Stone and Billboard magazines have proclaimed 1984 as "pop music's 
 Jim & Greg discuss {artist: Bob Dylan}'s work, and his impact on the world of both music and literature, at the Metropolois Performing Arts Centre in downtown Arlington Heights, IL. This event begins at 7:30 p.m. Registration is required beginning on March 1, [online](http://www.ahml.info/content/some-people-say-i-am-poet-sound-opinions-bob-dylan) or by phone at 847.392.0100.
 
 ## 4/19/2017 Eat to the Beat
-![Eat to the Beat](https://s3.amazonaws.com/sound-images/images/2016/Eat%20to%20the%20Beat_Image_Email_logo.jpg)
+![Eat to the Beat](https://static.soundopinions.org/images/2021/b9c716.jpg)
 Eat to the Beat - where music and food collide! 
 Join Jim & Greg to celebrate the revolutionary power of rock 'n roll with a 6 course menu prepared by some of Chicago's top chefs including Ashlee Aubin of Salero, Abe Conlon of Fat Rice, Nicole Pederson of Found and Mike Sheerin of Rockit.
 Enjoy plates inspired by each chef's favorite revolutionary anthem. Each dish will showcase that food — like music — has the power to break down barriers and change norms.
