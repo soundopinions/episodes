@@ -3,7 +3,16 @@
 ?pubdate 2005-12-03T00:00
 # Events
 
-## 10/10/2021 [Sound Opinions Live: *Lucy Dacus*](https://www.eventbrite.com/e/lucy-dacus-interview-and-performance-tickets-178889321777)
+## 10/29/2021 [Separating the Art from the Artist: A Conversation with Greg Kot, Jim DeRogatis and Althea Legaspi](https://www.olpl.org/adult-programs/)
+![Soulless](https://static.soundopinions.org/images/2019/Soulless.jpg)
+
+Saint Xavier University: McGuire Hall (Warde Academic Center) 7-8:30pm Free parking in Lot 12 (off of 103rd St.) 
+
+Since the fall of 2017, the #MeToo movement has shined a bright and long overdue spotlight on sexual harassment and assault in many aspects of American culture, including Hollywood, media and politics. However, the music world has lagged behind. R. Kelly, Chris Brown, Ryan Adams, Marilyn Manson, and XXXTentacion have all been in the headlines recently for allegations tied to sexual and emotional abuse. And there is a long, troubling history of groupie culture stretching from Elvis to Led Zeppelin to the present. If we listen to their music and support their concerts, are we enabling them to continue inappropriate and destructive behavior?
+
+Jim, Greg and Althea will examine this issue and ask an even bigger question. All of us, in the worlds of journalism, cultural programming and academia are free-speech absolutists. But what is our responsibility if we enjoy – or fail to speak out about – the troubling themes in an artist’s work? If we revel in Woody Allen’s films or Louis C.K.’s comedy, are we muting the women who have told harrowing tales about these men? As fans and critics, can we really separate the art from the artist? And, perhaps more importantly: Should we? We’ll start the discussion and quickly turn it over to a back-and-forth with you to hear your thoughts and questions, so please join us.
+
+## 10/10/2021 [POSTPONED: Sound Opinions Live: *Lucy Dacus*](https://www.eventbrite.com/e/lucy-dacus-interview-and-performance-tickets-178889321777)
 ![Lucy Dacus Photo by Ebru Yildiz](https://static.soundopinions.org/images/2021/ebru-scaled.jpeg)
 
 Join Sound Opinions hosts Jim DeRogatis and Greg Kot for a live taping of Sound Opinions with Lucy Dacus.
@@ -38,8 +47,7 @@ He will be reading at **Word bookstore in Jersey City** (123 Newark Ave.) at 7:3
 
 [Hideout event, 7 p.m. **June 8**, 1354 W. Wabansia St. Chicago](https://www.eventbrite.com/e/soulless-the-case-against-r-kelly-book-release-tickets-61325771032)
 
-[Chicago Humanities Fest, 6 p.m. **June 13**, 2033 W North Ave
-Chicago](https://www.chicagohumanities.org/events/case-against-r-kelly-jim-derogatis/)
+[Chicago Humanities Fest, 6 p.m. **June 13**, 2033 W North Ave. Chicago](https://www.chicagohumanities.org/events/case-against-r-kelly-jim-derogatis/)
 
 Sound Opinions listeners can use the promo code *soulless15* to get a $15 off the ticket price. 
 
