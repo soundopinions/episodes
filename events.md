@@ -6,7 +6,7 @@
 ## 10/29/2021 [Separating the Art from the Artist: A Conversation with Greg Kot, Jim DeRogatis and Althea Legaspi](https://www.olpl.org/adult-programs/)
 ![Soulless](https://static.soundopinions.org/images/2019/Soulless.jpg)
 
-Saint Xavier University: McGuire Hall (Warde Academic Center) 7-8:30pm Free parking in Lot 12 (off of 103rd St.) 
+Saint Xavier University: McGuire Hall (Warde Academic Center) 7-8:30pm Free parking in Lot 12 (off of 103rd St.) Co-sponsored by Oak Lawn Public Library
 
 Since the fall of 2017, the #MeToo movement has shined a bright and long overdue spotlight on sexual harassment and assault in many aspects of American culture, including Hollywood, media and politics. However, the music world has lagged behind. R. Kelly, Chris Brown, Ryan Adams, Marilyn Manson, and XXXTentacion have all been in the headlines recently for allegations tied to sexual and emotional abuse. And there is a long, troubling history of groupie culture stretching from Elvis to Led Zeppelin to the present. If we listen to their music and support their concerts, are we enabling them to continue inappropriate and destructive behavior?
 
