@@ -3,6 +3,25 @@
 ?pubdate 2005-12-03T00:00
 # Events
 
+## 5/2/2022 [Sound Opinions LIVE with Pedro the Lion](https://www.eventbrite.com/e/322673253387)
+![David Bazan of Pedro The Lion](https://static.soundopinions.org/images/2022/pedro.jpeg)
+
+11:30 AM at Goose Island Tap Room 1800 W. Fulton Chicago, IL 60612
+
+Join Jim DeRogatis & Greg Kot for a LIVE taping of Sound Opinions with David Bazan of Pedro the Lion at the Goose Island Tap Room.
+
+Pedro the Lion has been the musical project of David Bazan since the 1990s. His latest album is Havasu, an exploration of the year his family lived in that Arizona vacation town when he was in seventh grade. It's the second in a planned five album cycle about each city his family lived in when he was growing up.
+
+From 1998 -2004 Pedro the Lion released four full-length albums that drew on elements of slowcore, emo, punk and indie rock. From 2009 -2017 Bazan released four albums under his own name that added more analog synthesizers and country sounds to the mix. In 2019 he revived the Pedro the Lion name for the album Phoenix, garnering some of the best reviews of his career. Through it all, Bazan's songwriting has always been haunted by the legacy of American evangelical Christianity.
+
+Drink a beer and enjoy the music of Pedro the Lion in this exclusive, intimate performance.
+
+[RSVP Required](https://www.eventbrite.com/e/322673253387)
+
+The recording will run from approximately 11:30 AM - 12:30 PM.
+
+Please be there promptly at 11:15 AM to secure your spot.
+
 ## 10/29/2021 [Separating the Art from the Artist: A Conversation with Greg Kot, Jim DeRogatis and Althea Legaspi](https://www.olpl.org/adult-programs/)
 ![Soulless](https://static.soundopinions.org/images/2019/Soulless.jpg)
 
