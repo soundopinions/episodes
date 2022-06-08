@@ -3,6 +3,56 @@
 ?pubdate 2005-12-03T00:00
 # Events
 
+## 6/23/2023 [SOUND OPINIONS featuring Jim DeRogatis and Greg Kot: IT WAS 50 YEARS AGO TODAY](https://us02web.zoom.us/webinar/register/WN_nWgNJJH6Q8mYajij68i4Mg)
+![50 years ago](https://static.soundopinions.org/images/2022/50yearsago.jpeg)
+Thursday, June 23, virtual event via ZOOM (7 - 8:30 pm)
+
+IT WAS 50 YEARS AGO TODAY: Albums from 1972 still inspiring and influencing musicians 50 years later
+Some fans think that all of the innovations which continue to echo in popular music today came in the '60s. Greg and Jim will make the case that 1972 was actually every bit as creative and influential in the long term. They'll examine the albums they think were enduring masterpieces created a half-century ago, and follow their threads into the present.
+
+Teaser: "Exile on Main Street" by the Rolling Stones and "Ziggy Stardust" by David Bowie have already made the cut!
+
+[The event is free but you must register in advance here.](https://us02web.zoom.us/webinar/register/WN_nWgNJJH6Q8mYajij68i4Mg) 
+
+## 6/6/2022 [Sound Opinions LIVE with Superchunk](https://www.eventbrite.com/e/sound-opinions-live-with-superchunk-tickets-344233510697)
+![Superchunk](https://static.soundopinions.org/images/2022/superchunk.jpeg)
+
+1:00 PM at Goose Island Tap Room 1800 W. Fulton Chicago, IL 
+
+Join Jim DeRogatis and Greg Kot for a LIVE taping of Sound Opinions with Superchunk at the Goose Island Tap Room.
+
+Take a late lunch hour and join Jim DeRogatis & Greg Kot for a LIVE taping of Sound Opinions at the Goose Island Tap Room on Fulton.
+
+This time we're featuring an interview and acoustic performance from Superchunk.
+
+It's on Monday, June 6 at the Goose Island Tap Room in Chicago. And it's FREE!
+
+Jim and Greg are big fans of the latest Superchunk album, *Wild Loneliness*.
+
+Greg says he loves the way the album confronts the problems facing the world with the sentiment of "let's get through this."
+
+Jim says "three decades and they've never sucked!"
+
+
+## 5/27/2022 [Sound Opinions LIVE with Kurt Vile](https://www.eventbrite.com/e/sound-opinions-live-with-kurt-vile-tickets-333705802037)
+![Kurt Vile](https://static.soundopinions.org/images/2022/kurt_vile.jpeg)
+
+1:00 PM at Goose Island Brewhouse 1800 N. Clybourn Chicago, IL 
+
+Join Jim DeRogatis & Greg Kot for a LIVE taping of Sound Opinions with Kurt Vile at the Goose Island Brewhouse.
+
+Take a late lunch hour and join Jim DeRogatis & Greg Kot for a LIVE taping of Sound Opinions at the Goose Island Brewhouse on Clybourn.
+
+This time we're featuring an interview and solo performance from Kurt Vile.
+
+It's on Friday, May 27 at the Goose Island Brewhouse in Chicago. And it's FREE!
+
+Kurt Vile’s new album, (watch my moves), is his first release in partnership with Verve Records. The first single “Flyin (like a fast train),” is inspired by his lifelong love of trains. The song is a poetic tribute to Vile’s father who worked as a train conductor for decades and pays homage to Philadelphia’s SEPTA Regional Rail.
+
+Recorded mainly at OKV Central—Vile’s newly created home studio in the Mount Airy neighborhood of Philadelphia—(watch my moves) was self-produced along with help from longtime collaborator Rob Schnapf (Richard Thompson, Elliott Smith). Across the record—which includes 14 originals as well as a version of Bruce Springsteen’s “Wages of Sin”—Vile pulls his talents in unexpected directions, resulting in a vibrant, yet meditative album propelled by his trademark laid-back charm and curious spirit.
+
+Drink a beer and enjoy the music of Kurt Vile in this exclusive, intimate performance.
+
 ## 5/2/2022 [Sound Opinions LIVE with Pedro the Lion](https://www.eventbrite.com/e/322673253387)
 ![David Bazan of Pedro The Lion](https://static.soundopinions.org/images/2022/pedro.jpeg)
 
