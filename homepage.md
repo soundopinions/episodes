@@ -1,6 +1,6 @@
-?id homepage
+?id "homepage"
 ?graph [""]
-?pubdate 2005-12-03T00:00
+?pubdate "2005-12-03T00:00"
 # Leave a voice message[**Desktop**](https://www.micdropp.com/studio/5febf006eba45/) or [**Mobile**](https://telbee.io/channel/dzx8hiug-yzyfuvgojbtog/)or [**email us a voice memo.**](mailto:interact@soundopinions.org)
 Dear Listeners,
 Now that the show is independent, we're inviting you to join the band and lend a hand! We need your support more than ever because now we have to do all the behind-the-scenes work ourselves (like buying insurance and paying for podcast hosting). 
