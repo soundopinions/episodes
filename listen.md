@@ -8,17 +8,12 @@
 
 #### Podcast platforms
 
-[Apple Podcasts](https://itunes.apple.com/us/podcast/sound-opinions/id94793843)
-
-[Overcast](https://overcast.fm/itunes94793843/sound-opinions)
-
-[Spotify](https://open.spotify.com/show/1kNR8YL7TBrQuRxDdS4wtU)
-
-[tunein](https://tunein.com/podcasts/Music-Podcasts/Sound-Opinions-p60273/)
-
-[Stitcher](http://www.stitcher.com/podcast/sound-opinions)
-
-[RSS](https://feeds.simplecast.com/Nn6fjnB0)
+- [Apple Podcasts](https://itunes.apple.com/us/podcast/sound-opinions/id94793843)
+- [Overcast](https://overcast.fm/itunes94793843/sound-opinions)
+- [Spotify](https://open.spotify.com/show/1kNR8YL7TBrQuRxDdS4wtU)
+- [tunein](https://tunein.com/podcasts/Music-Podcasts/Sound-Opinions-p60273/)
+- [Stitcher](http://www.stitcher.com/podcast/sound-opinions)
+- [RSS](https://feeds.simplecast.com/Nn6fjnB0)
 
 
 ## On the Radio
