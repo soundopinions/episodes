@@ -9,6 +9,12 @@ Please consider [becoming a Sound Opinions member by giving whatever you can via
 
 // insert ads/paypal-donate.html
 
+## ATTN: The Sound Opinions Arts Criticism Prize
+
+![typewriter](https://static.soundopinions.org/images/2022/typewriter.jpg)
+
+[Read the winners](https://sound-opinions.simplecast.com/episodes/the-winners-of-the-sound-opinions-prize)
+
 ## Merch: Limited Edition **Jay Ryan** Print
 
 ![jay ryan poster](https://static.soundopinions.org/images/2020/jay-ryan-poster.jpeg)
