@@ -62,25 +62,23 @@ Email [jimdero@jimdero.com](jimdero@jimdero.com) | Twitter [@JimDeRogatis](https
 ### Greg Kot
 ![Greg Kot](https://static.soundopinions.org/images/2016/gkot.jpg)
 
-Greg Kot is the head of editorial at [The Coda Collection](codacollection.co), a multimedia music platform. He is also the cohost of the nationally syndicated public-radio show and podcast *Sound Opinions,* and previously the music critic at the Chicago Tribune for 30 years. His books include acclaimed biographies of Mavis Staples *(I’ll Take You There)* and Wilco *(Learning How to Die)* and a history of the digital music revolution *(Ripped)*. He also coauthored *The Beatles vs. the Rolling Stones: Sound Opinions on the Great Rock ‘N’ Roll Rivalry* and has written extensively for Rolling Stone, BBC Culture and Encylopaedia Britannica. When he takes off the headphones, Kot coaches in his Chicago-based [youth travel basketball program](OTEhoops.com). In addition, he has coauthored two best-selling editions of the book *Survival Guide to Coaching Youth Basketball.*
+Greg Kot cohosts "Sound Opinions” and has authored six books, including acclaimed biographies of Mavis Staples (“I’ll Take You There”) and Wilco (“Learning How to Die”) and a history of the digital music revolution (“Ripped”). He was the music critic at the Chicago Tribune for 30 years, and has written extensively for Rolling Stone, BBC Culture, Encylopaedia Britannica and numerous other publications.
 
 Email [greg@gregkot.com](greg@gregkot.com) | Twitter [@GregKot](https://twitter.com/gregkot)
 
 ### Alex Claiborne
 ![Alex Claiborne](https://static.soundopinions.org/images/2019/Alex_headshot.jpg)
 
-Alex Claiborne is a Sound Opinions Producer. She is responsible for editorial work (brainstorming ideas, booking guests, editing and distributing the show) in addition to collaborating on live events, ad sales, business and fundraising efforts. Since joining the team in 2014, Alex has produced interviews with Alice Cooper, comedian Hannibal Buress, Nancy Wilson (Heart), Courtney Barnett, John Prine and Todd Rundgren (to name a few.) She’s also lead produced discussions on the music of Taylor Swift and Carole King, the Chicago Soul scene, sexuality in music, and is the master of list shows. 
+Alex Claiborne is a Senior *Sound Opinions* Producer. She is responsible for editorial work, show planning, ad sales, fundraising efforts and more. Since joining the team in 2014, Alex has produced interviews with Alice Cooper, Nancy Wilson (Heart), Courtney Barnett, John Prine and Todd Rundgren (to name a few.) She’s also lead produced discussions on the music of Taylor Swift and Carole King, the Chicago Soul scene, sexuality in music, and is the master of list shows. 
 
-Prior to *Sound Ops*, Alex worked at WGN Radio and Wisconsin Public Radio. Alex attended the University of Wisconsin-Madison, where she graduated with a degree in Journalism and Radio-Television-Film. Alex loves listening to music and podcasts, doing spin classes, reading and popular culture.
-
-Alex lives in Chicago with her fiancé.
+Prior to *Sound Ops*, Alex worked at WGN Radio and Wisconsin Public Radio. Alex attended the University of Wisconsin-Madison, where she graduated with a degree in Journalism and Radio-Television-Film. Alex loves listening to music and podcasts, weightlifting, reading and popular culture. She lives in Chicago with her husband and dog.
 
 Email [alex@soundopinions.org](mailto:alex@soundopinions.org) | Twitter [@alexclaiborne1](https://twitter.com/alexclaiborne1)
 
 ### Andrew Gill
 ![Andrew Gill](https://static.soundopinions.org/images/2021/4b63c6.jpg)
 
-Andrew Gill is a *Sound Opinions* Producer who joined the show full-time in 2018. His favorite segments to produce are Classic Album Dissections and anything news-related. Before that he worked as a digital producer for WBEZ, focusing on photojournalism, video production, podcasting, blogging and social media over 12 years. During that time he produced videos of more than 100 Sound Opinions sessions. His work on various projects has garnered AP awards, an Edward R Murrow Award, a National Association of Black Journalists Salute to Excellence Award and multiple awards from the North American Guild of Beer Writers.
+Andrew Gill is a Senior *Sound Opinions* Producer who joined the show full-time in 2018. His favorite segments to produce are Classic Album Dissections and anything news-related. Before that he worked as a digital producer for WBEZ, focusing on photojournalism, video production, podcasting, blogging and social media over 12 years. During that time he produced videos of more than 100 Sound Opinions sessions. His work on various projects has garnered AP awards, an Edward R Murrow Award, a National Association of Black Journalists Salute to Excellence Award and multiple awards from the North American Guild of Beer Writers.
 Andrew grew up in Florida and lives in Chicago with his wife, son and cat.
 
 Email [andrew@soundopinions.org](andrew@soundopinions.org) | Twitter [@andrewgill](https://twitter.com/andrewgill)
