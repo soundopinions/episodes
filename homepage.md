@@ -2,12 +2,17 @@
 ?graph [""]
 ?pubdate "2005-12-03T00:00"
 # Leave a voice message[**Desktop**](https://www.micdropp.com/studio/5febf006eba45/) or [**Mobile**](https://telbee.io/channel/dzx8hiug-yzyfuvgojbtog/)or [**email us a voice memo.**](mailto:interact@soundopinions.org)
-Dear Listeners,
-Now that the show is independent, we're inviting you to join the band and lend a hand! We need your support more than ever because now we have to do all the behind-the-scenes work ourselves (like buying insurance and paying for podcast hosting). 
+
 
 Please consider [becoming a Sound Opinions member by giving whatever you can via Patreon](https://www.patreon.com/soundopinions?fan_landing=true) or with a one-time donation through PayPal. Thanks for listening, and thanks for your support!
 
 // insert ads/paypal-donate.html
+
+
+
+![sponsor](https://static.soundopinions.org/images/2022/1.jpg)
+![sponsor2](https://static.soundopinions.org/images/2022/2.jpg)
+
 
 ## ATTN: The Sound Opinions Arts Criticism Prize
 
@@ -38,9 +43,7 @@ A pint glass, great for liquids (2019 design).
 
 [Add to Paypal Cart](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RZTF97LEVRB2A)
 
-## Attn: Do you work for a company looking to reach a generous, curious, and culturally engaged audience nationwide?
 
-Consider advertising with Sound Opinions! Contact [sponsor@soundopinions.org](mailto:sponsor@soundopinions.org) for details.
 
 
 
