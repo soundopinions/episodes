@@ -10,7 +10,6 @@ Please consider [becoming a Sound Opinions member by giving whatever you can via
 
 
 
-![sponsor](https://static.soundopinions.org/images/2022/1.jpg)
 ![sponsor2](https://static.soundopinions.org/images/2022/2.jpg)
 
 
