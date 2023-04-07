@@ -1,4 +1,3 @@
-?template {"root":"article", "class":"episode"}
 ?id ""
 ?graph [""]
 ?pubdate ""
