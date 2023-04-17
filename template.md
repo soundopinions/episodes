@@ -1,6 +1,7 @@
 ?id ""
 ?graph [""]
 ?pubdate ""
+?template {"root":"article", "class":"episode"}
 
 # Show ${Episode}: ${Title}
 
