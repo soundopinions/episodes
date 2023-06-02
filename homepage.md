@@ -11,11 +11,11 @@ Please consider [becoming a Sound Opinions member by giving whatever you can via
 
 
 
-## ATTN: The Sound Opinions Arts Criticism Prize
+## ATTN: The 2023 Sound Opinions Arts Criticism Prize
 
 ![typewriter](https://static.soundopinions.org/images/2022/typewriter.jpg)
 
-[Read the winners](https://omny.fm/shows/sound-opinions/the-winners-of-the-sound-opinions-prize)
+[Read the winners](https://omny.fm/shows/sound-opinions/2023-sound-opinions-writing-prize-winners)
 
 
 
