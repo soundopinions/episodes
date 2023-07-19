@@ -19,6 +19,14 @@ Please consider [becoming a Sound Opinions member by giving whatever you can via
 
 
 
+## ATTN: The 2023 Sound Opinions Music Prize
+
+![cassette](https://static.soundopinions.org/images/2023/music.jpg)
+
+[Hear the winners](https://omny.fm/shows/sound-opinions/2023-sound-opinions-music-prize-winners)
+
+
+
 ## Merch: Limited Edition **Jay Ryan** Print
 
 ![jay ryan poster](https://static.soundopinions.org/images/2020/jay-ryan-poster.jpeg)
