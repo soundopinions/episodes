@@ -3,9 +3,9 @@
 ?pubdate ""
 ?template {"root":"article", "class":"episode"}
 
-# Show ${Episode}: ${Title}
+# Show ${attributes.episode_number}: ${attributes.title}
 
 
 ## 00:00:00 Intro: Coming Soon
 
-${Description}
+${attributes.description_plain}
