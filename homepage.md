@@ -15,7 +15,7 @@ Please consider [becoming a Sound Opinions member by giving whatever you can via
 
 ![typewriter](https://static.soundopinions.org/images/2022/typewriter.jpg)
 
-[Read the winners](https://omny.fm/shows/sound-opinions/2023-sound-opinions-writing-prize-winners)
+[Read the winners](https://podcasts.apple.com/us/podcast/sound-opinions/id94793843?i=1000615134306)
 
 
 
@@ -23,7 +23,7 @@ Please consider [becoming a Sound Opinions member by giving whatever you can via
 
 ![cassette](https://static.soundopinions.org/images/2023/music.jpg)
 
-[Hear the winners](https://omny.fm/shows/sound-opinions/2023-sound-opinions-music-prize-winners)
+[Hear the winners](https://podcasts.apple.com/us/podcast/sound-opinions/id94793843?i=1000615990759)
 
 
 
