@@ -21,9 +21,7 @@ Whether you're an expert, or just a casual fan, *Sound Opinions* is your source 
 
 ## Contact Sound Opinions
 
-
-####**For Sponsorships & Advertising Opportunities, please email Alex Claiborne at alex@soundopinions.org**
-
+#### **For Sponsorships & Advertising Opportunities, please email Alex Claiborne at alex@soundopinions.org**
 
 #### Mailing Address
 
@@ -34,8 +32,6 @@ Sound Opinions
 Chicago, IL 60657
 
 Email: [interact@soundopinions.org](mailto:interact@soundopinions.org)
-
-
 
 
 ### Contact the Staff
@@ -58,7 +54,7 @@ The Sound Opinions clinic has its doors open. Drs. Jim DeRogatis and Greg Kot se
 
 ### PRX Distribution
 
-#### Mark Kausch: [mark.kausch@gmail.com](mark.kausch@gmail.com)
+#### Mark Kausch: [mark@soundopinions.org](mark@soundopinions.org)
 
 [Sound Opinions on PRX](https://exchange.prx.org/group_accounts/101127-so)
 
