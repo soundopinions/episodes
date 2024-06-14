@@ -11,11 +11,19 @@ Please consider [becoming a Sound Opinions member by giving whatever you can via
 
 
 
+## ATTN: The 2024 Sound Opinions Writing Prize
+
+![typewriter](https://static.soundopinions.org/images/2022/typewriter.jpg)
+
+[Read the winners](https://podcasts.apple.com/us/podcast/sound-opinions/id94793843?i=1000658723915)
+
+
+
 ## ATTN: The 2024 Sound Opinions Photo Prize
 
 ![typewriter](https://static.soundopinions.org/images/2022/typewriter.jpg)
 
-[Read the winners](https://podcasts.apple.com/us/podcast/sound-opinions/id94793843?i=1000657143731)
+[See the winners](https://podcasts.apple.com/us/podcast/sound-opinions/id94793843?i=1000657143731)
 
 
 
