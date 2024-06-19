@@ -15,7 +15,7 @@ Please consider [becoming a Sound Opinions member by giving whatever you can via
 
 ![typewriter](https://static.soundopinions.org/images/2022/typewriter.jpg)
 
-[Read the winners](https://podcasts.apple.com/us/podcast/sound-opinions/id94793843?i=1000658723915)
+[Read the winners](https://art19.com/shows/sound-opinions/episodes/323fe310-493f-4368-a770-bb873b4627e5)
 
 
 
@@ -23,7 +23,7 @@ Please consider [becoming a Sound Opinions member by giving whatever you can via
 
 ![typewriter](https://static.soundopinions.org/images/2022/typewriter.jpg)
 
-[See the winners](https://podcasts.apple.com/us/podcast/sound-opinions/id94793843?i=1000657143731)
+[See the winners](https://art19.com/shows/sound-opinions/episodes/1173fc14-eafa-4f1c-9a17-bc00cb14caaa)
 
 
 
@@ -31,7 +31,7 @@ Please consider [becoming a Sound Opinions member by giving whatever you can via
 
 ![cassette](https://static.soundopinions.org/images/2023/music.jpg)
 
-[Hear the winners](https://podcasts.apple.com/us/podcast/sound-opinions/id94793843?i=1000657884622)
+[Hear the winners](https://art19.com/shows/sound-opinions/episodes/96a86b00-dba5-4f7b-a94a-07e432d64cc3)
 
 
 
