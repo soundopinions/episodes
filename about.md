@@ -21,7 +21,7 @@ Whether you're an expert, or just a casual fan, *Sound Opinions* is your source 
 
 ## Contact Sound Opinions
 
-#### **For Sponsorships & Advertising Opportunities, please email Alex Claiborne at alex@soundopinions.org**
+#### **For Sponsorships & Advertising Opportunities, please email Geary Yonker at sponsor@soundopinions.org**
 
 #### Mailing Address
 
@@ -87,7 +87,7 @@ Email [greg@gregkot.com](greg@gregkot.com) | Bluesky [@GregKot](https://bsky.app
 
 Alex Claiborne is a Senior *Sound Opinions* Producer. She is responsible for editorial work, show planning, ad sales, fundraising efforts and more. Since joining the team in 2014, Alex has produced interviews with Alice Cooper, Nancy Wilson (Heart), Courtney Barnett, John Prine and Todd Rundgren (to name a few.) She's also lead produced discussions on the music of Taylor Swift and Carole King, the Chicago Soul scene, sexuality in music, and is the master of list shows.
 
-Prior to *Sound Ops*, Alex worked at WGN Radio and Wisconsin Public Radio. Alex attended the University of Wisconsin-Madison, where she graduated with a degree in Journalism and Radio-Television-Film. Alex loves listening to music and podcasts, weightlifting, reading and popular culture. She lives in Chicago with her husband and dog.
+Prior to *Sound Ops*, Alex worked at WGN Radio and Wisconsin Public Radio. Alex attended the University of Wisconsin-Madison, where she graduated with a degree in Journalism and Radio-Television-Film. Alex loves listening to music and podcasts, weightlifting, reading and popular culture. She lives in the Chicago suburbs with her husband, daughter and dog.
 
 Email [alex@soundopinions.org](mailto:alex@soundopinions.org) | Bluesky [@alexclaiborne](https://bsky.app/profile/alexclaiborne.bsky.social)
 
