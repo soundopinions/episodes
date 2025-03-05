@@ -101,3 +101,21 @@ Andrew Gill is a Senior *Sound Opinions* Producer who joined the show full-time 
 Andrew grew up in Florida and lives in Chicago with his wife and kid.
 
 Email [andrew@soundopinions.org](andrew@soundopinions.org) | Bluesky [@andrewgill](https://bsky.app/profile/andrewgill.biz)
+
+### Max Hatlem
+
+![Max Hatlem](https://static.soundopinions.org/images/2025/max-li.jpeg)
+
+Max Hatlem is an associate producer for Sound Opinions who began as a Columbia College Chicago intern in 2023. He supports the senior production team by editing audio, outlining shows, booking guests and pitching in wherever needed. Max loves our Buried Treasure segments and he is particularly proud of his work on the classic album dissection of Brian Eno’s *Taking Tiger Mountain (By Strategy)*. Originally from Indiana, Max now resides in Chicago.
+
+Email [max@soundopinions.org](max@soundopinions.org)
+
+### Geary Yonker
+
+![Geary Yonker](https://static.soundopinions.org/images/2025/gy-arms-crossed-mural-2023.jpg)
+
+Geary Yonker is the Business Development Manager of Sound Opinions. For the past 25 years, Geary has been a passionate advocate for independent journalism, as an executive at The Chicago Reader, The Onion/AV Club, and WBEZ Chicago. He has represented some of the most influential podcasts in the industry, including This American Life, Serial, and The Moth. A longtime listener of Sound Opinions since the '90s, Geary credits the show with introducing him to countless new artists and albums over the years.
+
+Geary is also one of the cofounders of the Logan Square Arts Festival, an annual celebration of art and music in Chicago, which the Chicago Reader described as “the future of summer outdoor music in Chicago.” A resident of Logan Square for over 22 years, Geary and his family are known for their love for playing music together - and they promise to always turn the amps off by 10PM.
+
+Email [sponsor@soundopinions.org](sponsor@soundopinions.org) | Instagram [@gearyonk](https://www.instagram.com/gearyonk)
