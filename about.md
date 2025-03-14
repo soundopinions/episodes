@@ -102,13 +102,15 @@ Andrew grew up in Florida and lives in Chicago with his wife and kid.
 
 Email [andrew@soundopinions.org](andrew@soundopinions.org) | Bluesky [@andrewgill](https://bsky.app/profile/andrewgill.biz)
 
+
 ### Max Hatlem
 
 ![Max Hatlem](https://static.soundopinions.org/images/2025/max-li.jpeg)
 
-Max Hatlem is an associate producer for Sound Opinions who began as a Columbia College Chicago intern in 2023. He supports the senior production team by editing audio, outlining shows, booking guests and pitching in wherever needed. Max loves our Buried Treasure segments and he is particularly proud of his work on the classic album dissection of Brian Eno’s *Taking Tiger Mountain (By Strategy)*. Originally from Indiana, Max now resides in Chicago.
+Max Hatlem is an associate producer for Sound Opinions who began as a Columbia College Chicago intern in 2023. He supports the senior production team by editing audio, outlining shows, booking guests and pitching in wherever needed. Max loves our Buried Treasure segments and he is particularly proud of his work on the classic album dissection of Brian Eno's *Taking Tiger Mountain (By Strategy)*. Originally from Indiana, Max now resides in Chicago.
 
 Email [max@soundopinions.org](max@soundopinions.org)
+
 
 ### Geary Yonker
 
@@ -119,3 +121,12 @@ Geary Yonker is the Business Development Manager of Sound Opinions. For the past
 Geary is also one of the cofounders of the Logan Square Arts Festival, an annual celebration of art and music in Chicago, which the Chicago Reader described as “the future of summer outdoor music in Chicago.” A resident of Logan Square for over 22 years, Geary and his family are known for their love for playing music together - and they promise to always turn the amps off by 10PM.
 
 Email [sponsor@soundopinions.org](sponsor@soundopinions.org) | Instagram [@gearyonk](https://www.instagram.com/gearyonk)
+
+
+### Katie Kot
+
+![Katie Kot](https://static.soundopinions.org/images/2025/katie-kot-rev-300x300.jpg)
+
+Katie Kot is a seasoned digital marketing professional specializing in social media strategy and content creation. With a degree in multimedia journalism and mass communications, she merges her passion for storytelling, film, music and digital engagement to drive audience growth and interaction. As the Social Media Consultant for Sound Opinions, she leads the development and execution of innovative social media strategies that amplify digital presence and cultivate meaningful community engagement. She crafts compelling narratives and visually dynamic content to enhance Sound Opinions' online presence while deepening listener connections and preserving the show's legacy of insightful music discussions. Her favorite music style is jazz, with a particular appreciation for Charlie Parker, Dizzy Gillespie, and Charles Mingus.
+
+[LinkedIn](https://www.linkedin.com/in/katherine-kot-b86505198/)
