@@ -98,7 +98,7 @@ Email [alex@soundopinions.org](mailto:alex@soundopinions.org) | Bluesky [@alexcl
 
 Andrew Gill is a Senior *Sound Opinions* Producer who joined the show full-time in 2018. His favorite segments to produce are Classic Album Dissections and anything news-related. Before that he worked as a digital producer for WBEZ, focusing on photojournalism, video production, podcasting, blogging and social media over 12 years. During that time he produced videos of more than 100 Sound Opinions sessions. He also hosts the podcast [*Rock That Doesn't Roll*](https://podcasts.apple.com/us/podcast/rock-that-doesnt-roll-the-story-of-christian-music/id1703257857). His work on various projects has garnered AP awards, an Edward R Murrow Award, a National Association of Black Journalists Salute to Excellence Award, an American Academy of Religion award and multiple awards from the North American Guild of Beer Writers.
 
-Andrew grew up in Florida and lives in Chicago with his wife and kid.
+Andrew grew up in Florida and lives in Chicago with his family.
 
 Email [andrew@soundopinions.org](andrew@soundopinions.org) | Bluesky [@andrewgill](https://bsky.app/profile/andrewgill.biz)
 
