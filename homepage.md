@@ -35,13 +35,6 @@ Please consider [becoming a Sound Opinions member by giving whatever you can via
 
 
 
-## Merch: Limited Edition **Jay Ryan** Print
-
-![Sound Opinions poster by Jay Ryan](https://static.soundopinions.org/images/2025/jayryanposter.jpeg)
-
-[Add to Paypal Cart](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=KC7UE6PXWAEBE)
-
-
 
 
 // ![Sound Opinions Logo](https://static.soundopinions.org/images/2021/soundopinions_podcast_logo.jpeg)
