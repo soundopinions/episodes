@@ -9,7 +9,11 @@ Please consider [becoming a Sound Opinions member by giving whatever you can via
 
 ![sponsor2](https://static.soundopinions.org/images/2022/2.jpg)
 
+## EVENT: Sound Opinions Live with Valerie June
 
+![Valerie June](https://static.soundopinions.org/images/2025/valeriejune-photocredit-travysowen-1024x768.jpeg)
+
+[RSVP](https://www.eventbrite.com/e/sound-opinions-live-with-valerie-june-tickets-1353379678049?aff=oddtdtcreator)
 
 ## ATTN: The 2024 Sound Opinions Writing Prize
 
@@ -32,9 +36,5 @@ Please consider [becoming a Sound Opinions member by giving whatever you can via
 ![cassette](https://static.soundopinions.org/images/2023/music.jpg)
 
 [Hear the winners](https://art19.com/shows/sound-opinions/episodes/96a86b00-dba5-4f7b-a94a-07e432d64cc3)
-
-
-
-
 
 // ![Sound Opinions Logo](https://static.soundopinions.org/images/2021/soundopinions_podcast_logo.jpeg)
