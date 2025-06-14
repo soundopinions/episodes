@@ -11,18 +11,17 @@ Please consider [becoming a Sound Opinions member by giving whatever you can via
 
 
 
+## ATTN: The 2025 Sound Opinions Writing Prize
 
-## ATTN: The 2024 Sound Opinions Writing Prize
+![writing](https://static.soundopinions.org/images/2025/writing-prize-web.png)
 
-![typewriter](https://static.soundopinions.org/images/2022/typewriter.jpg)
-
-[Read the winners](https://art19.com/shows/sound-opinions/episodes/323fe310-493f-4368-a770-bb873b4627e5)
+[Read the winners](https://art19.com/shows/sound-opinions/episodes/47a9b19e-40df-4c36-86f2-2022d38816c9)
 
 
 
 ## ATTN: The 2024 Sound Opinions Photo Prize
 
-![typewriter](https://static.soundopinions.org/images/2022/typewriter.jpg)
+![photo prize](https://static.soundopinions.org/images/2025/photo-prize-web.png)
 
 [See the winners](https://art19.com/shows/sound-opinions/episodes/1173fc14-eafa-4f1c-9a17-bc00cb14caaa)
 
@@ -30,7 +29,7 @@ Please consider [becoming a Sound Opinions member by giving whatever you can via
 
 ## ATTN: The 2024 Sound Opinions Music Prize
 
-![cassette](https://static.soundopinions.org/images/2023/music.jpg)
+![Music Prize](https://static.soundopinions.org/images/2025/music-prize-web.png)
 
 [Hear the winners](https://art19.com/shows/sound-opinions/episodes/96a86b00-dba5-4f7b-a94a-07e432d64cc3)
 
