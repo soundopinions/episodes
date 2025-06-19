@@ -19,11 +19,11 @@ Please consider [becoming a Sound Opinions member by giving whatever you can via
 
 
 
-## ATTN: The 2024 Sound Opinions Photo Prize
+## ATTN: The 2025 Sound Opinions Photo Prize
 
 ![photo prize](https://static.soundopinions.org/images/2025/photo-prize-web.png)
 
-[See the winners](https://art19.com/shows/sound-opinions/episodes/1173fc14-eafa-4f1c-9a17-bc00cb14caaa)
+[See the winners](https://art19.com/shows/sound-opinions/episodes/ebeb6a94-a61e-4fb1-9525-f69ac672cb29)
 
 
 
