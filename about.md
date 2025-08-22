@@ -27,9 +27,9 @@ Whether you're an expert, or just a casual fan, *Sound Opinions* is your source 
 
 Sound Opinions
 
-3501 N Southport Ave # 161
+3302 N. Lincoln #161
 
-Chicago, IL 60657
+Chicago IL 60657
 
 Email: [interact@soundopinions.org](mailto:interact@soundopinions.org)
 
