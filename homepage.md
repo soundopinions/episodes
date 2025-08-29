@@ -33,4 +33,10 @@ Please consider [becoming a Sound Opinions member by giving whatever you can via
 
 [Hear the winners](https://art19.com/shows/sound-opinions/episodes/96a86b00-dba5-4f7b-a94a-07e432d64cc3)
 
+## ATTN: Everything Else
+
+![25th anniversary logo](https://static.soundopinions.org/images/2025/anniversary-logo.jpeg)
+
+[Listen to our new podcast](https://www.patreon.com/collection/1239596?view=expanded)
+
 // ![Sound Opinions Logo](https://static.soundopinions.org/images/2021/soundopinions_podcast_logo.jpeg)
