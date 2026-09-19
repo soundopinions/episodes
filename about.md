@@ -85,11 +85,11 @@ Email [greg@gregkot.com](greg@gregkot.com) | Bluesky [@GregKot](https://bsky.app
 
 ![Alex Claiborne](https://static.soundopinions.org/images/2025/aclaiborne.jpg)
 
-Alex Claiborne is a Senior *Sound Opinions* Producer. She is responsible for editorial work, show planning, ad sales, fundraising efforts and more. Since joining the team in 2014, Alex has produced interviews with Alice Cooper, Nancy Wilson (Heart), Courtney Barnett, John Prine and Todd Rundgren (to name a few.) She's also lead produced discussions on the music of Taylor Swift and Carole King, the Chicago Soul scene, sexuality in music, and is the master of list shows.
+Alex Claiborne is a Senior *Sound Opinions* Producer. She is responsible for editorial work, show planning, ad sales, fundraising efforts and more. Since joining the team in 2014, Alex has interviewed boygenius (Phoebe Bridgers, Lucy Dacus and Julien Baker), Shirley Manson (Garbage), Gina Schock (The Go-Go's) and more. She's also lead produced episodes with guests ranging from Cameron Crowe to Vic Mensa.
 
-Prior to *Sound Ops*, Alex worked at WGN Radio and Wisconsin Public Radio. Alex attended the University of Wisconsin-Madison, where she graduated with a degree in Journalism and Radio-Television-Film. Alex loves listening to music and podcasts, weightlifting, reading and popular culture. She lives in the Chicago suburbs with her husband, daughter and dog.
+Alex loves listening to pop music, watching comedy podcasts, doing CrossFit and binge viewing procedural T.V. shows. She lives in the Chicago suburbs with her husband and daughter.
 
-Email [alex@soundopinions.org](mailto:alex@soundopinions.org) | Bluesky [@alexclaiborne](https://bsky.app/profile/alexclaiborne.bsky.social)
+Email [alex@soundopinions.org](mailto:alex@soundopinions.org) | Twitter [@alexclaiborne1](https://x.com/alexclaiborne1)
 
 
 ### Andrew Gill
