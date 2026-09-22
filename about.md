@@ -82,12 +82,11 @@ Email [greg@gregkot.com](greg@gregkot.com) | Bluesky [@GregKot](https://bsky.app
 
 
 ### Alex Claiborne
+![alex2](https://static.soundopinions.org/images/2026/img-4276.jpg)
 
-![Alex Claiborne](https://static.soundopinions.org/images/2025/aclaiborne.jpg)
+Alex Claiborne is a Senior *Sound Opinions* Producer. Alex joined the *Sound Opinions* team as an intern back in 2014, and has since made herself an integral part of the operation. She’s produced over 600 *Sound Opinions* episodes. As an interviewer, Alex has had the privilege of talking with boygenius (Phoebe Bridgers, Lucy Dacus and Julien Baker), Shirley Manson (Garbage), Gina Schock (The Go-Go's) and more. Her favorite segments to produce include artist interviews and classic album dissections.
 
-Alex Claiborne is a Senior *Sound Opinions* Producer. She is responsible for editorial work, show planning, ad sales, fundraising efforts and more. Since joining the team in 2014, Alex has interviewed boygenius (Phoebe Bridgers, Lucy Dacus and Julien Baker), Shirley Manson (Garbage), Gina Schock (The Go-Go's) and more. She's also lead produced episodes with guests ranging from Cameron Crowe to Vic Mensa.
-
-Alex loves listening to pop music, watching comedy podcasts, doing CrossFit and binge viewing procedural T.V. shows. She lives in the Chicago suburbs with her husband and daughter.
+Her strengths lie in understanding show composition, timing and organization.  Alex previously worked for Wisconsin Public Radio (WPR) and WGN Radio. She lives in the Chicago suburbs with her husband and daughter.
 
 Email [alex@soundopinions.org](mailto:alex@soundopinions.org) | Twitter [@alexclaiborne1](https://x.com/alexclaiborne1)
 
