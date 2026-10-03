@@ -82,9 +82,10 @@ Email [greg@gregkot.com](greg@gregkot.com) | Bluesky [@GregKot](https://bsky.app
 
 
 ### Alex Claiborne
+
 ![alex2](https://static.soundopinions.org/images/2026/img-4276.jpg)
 
-Alex Claiborne is a Senior *Sound Opinions* Producer. Alex joined the *Sound Opinions* team as an intern back in 2014, and has since made herself an integral part of the operation. She’s produced over 600 *Sound Opinions* episodes. As an interviewer, Alex has had the privilege of talking with boygenius (Phoebe Bridgers, Lucy Dacus and Julien Baker), Shirley Manson (Garbage), Gina Schock (The Go-Go's) and more. Her favorite segments to produce include artist interviews and classic album dissections.
+Alex Claiborne is a Senior *Sound Opinions* Producer. Alex joined the *Sound Opinions* team as an intern back in 2014, and has since made herself an integral part of the operation. She's produced over 600 *Sound Opinions* episodes. As an interviewer, Alex has had the privilege of talking with boygenius (Phoebe Bridgers, Lucy Dacus and Julien Baker), Shirley Manson (Garbage), Gina Schock (The Go-Go's) and more. Her favorite segments to produce include artist interviews and classic album dissections.
 
 Her strengths lie in understanding show composition, timing and organization.  Alex previously worked for Wisconsin Public Radio (WPR) and WGN Radio. She lives in the Chicago suburbs with her husband and daughter.
 
@@ -129,3 +130,9 @@ Email [sponsor@soundopinions.org](sponsor@soundopinions.org) | Instagram [@geary
 Katie Kot is a seasoned digital marketing professional specializing in social media strategy and content creation. With a degree in multimedia journalism and mass communications, she merges her passion for storytelling, film, music and digital engagement to drive audience growth and interaction. As the Social Media Consultant for Sound Opinions, she leads the development and execution of innovative social media strategies that amplify digital presence and cultivate meaningful community engagement. She crafts compelling narratives and visually dynamic content to enhance Sound Opinions' online presence while deepening listener connections and preserving the show's legacy of insightful music discussions. Her favorite music style is jazz, with a particular appreciation for Charlie Parker, Dizzy Gillespie, and Charles Mingus.
 
 [LinkedIn](https://www.linkedin.com/in/katherine-kot-b86505198/)
+
+### Sound Opinions Scholars
+
+![scholars](https://static.soundopinions.org/images/2026/so-scholars.png)
+
+[Thanks to the Walter and Karla Goldschmidt Foundation for helping support these candidates as they learn about arts journalism and criticism with Sound Opinions while working toward their Masters of Science in Journalism degrees at Medill Northwestern.](https://soundopinions.org/blog)
